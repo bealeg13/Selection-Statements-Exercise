@@ -8,11 +8,11 @@
            // Console.WriteLine("Try to guess my favorite number between 1 - 50");
            // int userInput = int.Parse(Console.ReadLine());  
 
-           // if (userInput < 30)
+           // if (userInput < myFavoriteNum)
            // {
            //     Console.WriteLine("Too low");
            // }
-           // else if (userInput > 30)
+           // else if (userInput > myFavoriteNum)
            // {
            //     Console.WriteLine("Too high");
            // }
